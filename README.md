@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBlueStealth&hide=python,html&theme=tokyonight)
 # QWERTYLang
 QWERTYLang is a stupid programming language that I made within 1 and a half days.
 
