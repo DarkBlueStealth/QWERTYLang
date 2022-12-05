@@ -1,5 +1,5 @@
 # QWERTYLang
-QWERTYLang is a stupid programming language that I made within 1 and a half days.
+QWERTYLang is a stupid esoteric programming language that I made within 1 and a half days.
 
 Sadly this only works for Windows devices, I will add compatibility to linux and maybe macOS.
 
